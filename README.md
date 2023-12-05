@@ -2,7 +2,7 @@
 
 Build and deploy your own Covid-19 Dashboard using iPywidgets, Voila and Binders. Based on UK Government [data](https://coronavirus.data.gov.uk/) published by [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
 
-Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/diy-covid19dash/main)
+Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EnemigoPython/diy-covid19dash/1a00830e094c871a3b7ce832b58a2803e2dd827c?urlpath=lab%2Ftree%2FDashboard.ipynb)
 
 Click [here](https://mybinder.org/v2/gh/fsmeraldi/diy-covid19dash/main?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb) to render the dashboard template (```Dasboard.ipynb```) with Voila; this is where you will assemble your dashboard after going through the other notebooks.
 
